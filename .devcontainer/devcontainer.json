@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "aman",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
